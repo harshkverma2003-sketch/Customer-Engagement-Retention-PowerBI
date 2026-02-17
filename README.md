@@ -14,7 +14,7 @@ Dashboard Pages:
 
 
 
-AT the end this is my final Dashboard
+AT the end this is the final Dashboard
 
 **Customer Engagement & Retention Analytics Dashboard**
 
