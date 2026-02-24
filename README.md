@@ -19,19 +19,20 @@ Engagement & Product Analysis
 
 Retention Risk & Strategy
 
-Key Insights:
+
+**Key Insights:**
 Inactive Customers Shows Higher Churn.
 Single Product Customers are more likely to Churn.
 High Balance Inactive Customers present Silent Churn Risk. 
 
  Methodology:
-       1.  Customers are divided into active and inactive to understand engagement.
+   1.  Customers are divided into active and inactive to understand engagement.
+
+       
+   2.  Customer churn is compared based on how many bank products they use.
 
 
-       2.  Customer churn is compared based on how many bank products they use.
-
-
-       3.  Churn is analyzed for customers with and without credit cards.
+   3.  Churn is analyzed for customers with and without credit cards.
 
 
 Customers are grouped into strong, medium, and weak relationships based on engagement and product usage.
